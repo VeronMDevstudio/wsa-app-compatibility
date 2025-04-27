@@ -249,6 +249,7 @@ wsa://com.apple.android.music
 | LSPosed | 1.8.6 | 13, 11 | ✅
 | Magisk | 25.2 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
+| MANGA Plus | 1.13.2 | 13 | ✅ | Signin window may not appear(not always) |
 | MangaYomi | 0.2.2 | 13 | ✅ | Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
